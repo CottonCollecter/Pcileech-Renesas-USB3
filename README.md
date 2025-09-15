@@ -16,3 +16,5 @@ This release is intended for:
 - **For research and learning purposes only — not intended for misuse.**  
 
 👉 Join our [[Discord]](https://discord.gg/ajXCy3naaR) for more open-source projects and technical discussions. 
+
+Note: Some implementation details are modified to discourage direct copy-paste usage. Researchers familiar with FPGA/Pcileech development should have no issue adapting the code.
